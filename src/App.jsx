@@ -94,10 +94,7 @@ export default function App() {
       >
         <ActivePage {...pageProps[current]} />
       </div>
-      <p className="absolute bottom-0 right-0 z-50 text-indigo-200 text-[0.7rem]">Made by
-        <a href="https://github.com/N0ctaneDev" target="_blank" style={{color: `color-mix(in srgb, ${_themeColor} 56%, #fff)`}}> N0ctaneDev</a> &
-        <a href="https://github.com/GamesOfNamanInc" target="_blank" style={{color: `color-mix(in srgb, ${_themeColor} 56%, #fff)`}}> GamesOfNamanInc </a>
-      </p>
+      
     </div>
   </>);
 }
