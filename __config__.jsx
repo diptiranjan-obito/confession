@@ -11,7 +11,7 @@ export const _REPO = "my-love"
 
 export const _name = "Dear my love";   // tab/site name
 
-export const _dearName = "My Love";  // name of the person u wanna gift to
+export const _dearName = "Trisha";  // name of the person u wanna gift to
 
 export const _bgEmoji = "🌸";   // shown as animated bg
 
@@ -31,12 +31,12 @@ export const _MemoryMessages = [
   {
     title: "The Little Things",
     content:
-      "The way you hold your mug with both hands. How you get excited about clouds. The specific hum you do when you're thinking. I've catalogued all of it without even trying.",
+      "The way you tell about things or just yapping I just can't express that feeling. The specific hum you do when you're thinking. I've catalogued all of it without even trying.",
   },
   {
-    title: "When You Were Sad",
+    title: "When I Was at my lowest",
     content:
-      "I hated that I couldn't fix it. But I loved that you let me sit with you in it. That kind of trust — I don't take it lightly.",
+      " You were with me while dealing with your own problems and i don't know you realised or not that you didn't just make me feel better you gave me the reason to come out of the darkest place I'd been in.",
   },
   {
     title: "Every Ordinary Day",
@@ -51,7 +51,7 @@ export const _MemoryMessages = [
   {
     title: "Something Ridiculous",
     content:
-      "That one time we laughed so hard neither of us could speak. I don't even remember what it was about. I just remember your face.",
+      "That one time we laughed so hard neither of us could speak. The icecream protest . I just remember your warning not to eat that and your iconic emoji .",
   },
   {
     title: "Right Now",
